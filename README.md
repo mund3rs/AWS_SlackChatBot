@@ -1,4 +1,3 @@
-# AWS_SlackChatBot
 # AWS Slack Chatbot
 
 A Slack chatbot that interacts with AWS services using Python. This bot can list EC2 instances and restart specified instances.
